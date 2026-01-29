@@ -4,11 +4,10 @@
   
   <br/><br/>
 
-  <img src="1.jpg" width="22%" />
-  <img src="2.jpg" width="22%" />
-  <img src="3.jpg" width="22%" />
-  <img src="4.jpg" width="22%" />
-
+  <img src="1.jpg" height="300" />
+  <img src="2.jpg" height="300" />
+  <img src="3.jpg" height="300" />
+  <img src="4.png" height="300" /> 
   <br/><br/>
 
   <h3>🛠 Languages and Tools</h3>
@@ -18,8 +17,8 @@
 
   <h3>📊 My GitHub Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=PhungTrinhUET&show_icons=true&theme=tokyonight&hide_border=true" alt="PhungTrinhUET's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungTrinhUET&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PhungTrinhUET&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungTrinhUET&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
   </p>
 
   <br/>
