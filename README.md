@@ -6,13 +6,24 @@
 
   <img src="1.jpg" height="300" />
   <img src="3.jpg" height="300" />
+  <img src="4.png" height="300" />
   <img src="2.jpg" height="300" />
-  <img src="4.png" height="300" /> 
+
+
   <br/><br/>
 
-  <h3>📊 My GitHub Stats</h3>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PhungTrinhUET&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Stats" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungTrinhUET&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages" />
-  </div>
+  <h3>🛠 Languages and Tools</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,vscode,git,github,idea&theme=dark" />
+
+  <br/><br/>
+
+  <p>🌑 <i>"The city sleeps, but I dream."</i> 🌑</p>
+
+  <p>
+    ✨ 🌚 🌒 🌓 🌔 🌕 🌖 🌗 🌘 🌙 🪐 💫 ⭐️ 🌟 🌌 ☄️ 🚀 🛸 🔭 🌃
+  </p>
+
+  <br/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80px">
+
+</div>
